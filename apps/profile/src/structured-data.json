@@ -1,0 +1,49 @@
+{
+  "@context": "http://www.schema.org",
+  "@type": "Person",
+  "@id": "https://jonathan-golden.me",
+  "name": "Jonathan Golden",
+  "alternateName": "Jon Golden",
+  "nationality": "American",
+  "alumniOf": [
+    {
+      "@type": "CollegeOrUniversity",
+      "name": "Paradise Valley Community College",
+      "sameAs": "https://www.paradisevalley.edu/"
+    },
+    {
+      "@type": "CollegeOrUniversity",
+      "name": "Arizona State University",
+      "sameAs": "https://www.asu.edu/"
+    }
+  ],
+  "gender": "Male",
+  "jobTitle": "Senior Full Stack Developer",
+  "worksFor": [
+    {
+      "@type": "Organization",
+      "name": "American Express Company",
+      "sameAs": [
+        "https://www.americanexpress.com/",
+        "https://www.facebook.com/AmericanExpressUS",
+        "https://twitter.com/askamex",
+        "https://www.instagram.com/AmericanExpress/",
+        "https://www.linkedin.com/company/american-express",
+        "https://www.youtube.com/user/AmericanExpress",
+        "https://en.wikipedia.org/wiki/American_Express"
+      ]
+    }
+  ],
+  "url": "https://jonathan-golden.me",
+  "image": "https://s.gravatar.com/avatar/961997eb7fd5c22b3e12fb3c8ca14e11?s=512&r=g",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Phoenix",
+    "addressRegion": "Arizona",
+    "addressCountry": "United State of America"
+  },
+  "sameAs": [
+    "https://github.com/jgolden17/",
+    "https://www.strava.com/athletes/40062660/"
+  ]
+}

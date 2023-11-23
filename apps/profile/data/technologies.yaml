@@ -1,0 +1,8 @@
+- label: npm, yarn, webpack, babel
+- label: Jest, Selenium, Puppeteer
+- label: Docker, Jenkins, Travis CI
+- label: HTML, markown, LaTeX
+- label: GraphQL, OpenAPI, Protocol Buffers
+- label: NestJS, Express, Vert.x
+- label: MongoDB, MySQL, Redis
+- label: Jira, Confluence, Bitbucket, BookStack

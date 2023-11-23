@@ -1,0 +1,34 @@
+- title: Agenda NestJS
+  subtitle: 'A lightweight job scheduler for NestJS'
+  packageName: 'agenda-nest'
+  url: 'https://github.com/jongolden/agenda-nest#readme'
+  role: 'author'
+  stack:
+    - Typescript
+    - NestJS
+    - MongoDB
+- title: 'Liquid Democracy'
+  subtitle: 'A liquid democracy voting app'
+  description: 'A voting application using the liquid democracy model. Designed with Domain Driven Design (DDD) and Event Storming. Implemented with CQS and event sourcing.'
+  url: 'https://gitlab.com/jgolden17/liquid-democracy-poll'
+  role: 'author'
+  stack:
+    - Typescript
+    - MongoDB
+- title: 'Go Dark'
+  subtitle: ''
+  packageName: 'go-dark-gnome-extension'
+  description: 'A Gnome Shell extension to manage microphones, webcams, and location services'
+  url: 'https://github.com/jongolden/go-dark-gnome-extension'
+  role: 'author'
+  stack:
+    - JavaScript
+- title: 'Personal Profile'
+  packageName: '@jgolden17/personal-profile'
+  description: 'My personal website built with Gatsby and Bulma. Configured for automated CI/CD deployments to Linux servers hosted by May First Movement Technology.'
+  url: 'https://gitlab.com/jgolden17/personal-profile'
+  language: 'React'
+  role: 'author'
+  stack:
+    - React
+    - Gatsby
