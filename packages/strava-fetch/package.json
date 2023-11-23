@@ -1,0 +1,50 @@
+{
+  "name": "strava-fetch",
+  "version": "0.2.0",
+  "description": "Fetch procedures for Strava API",
+  "main": "src/index.js",
+  "scripts": {
+    "build": "babel src --out-dir lib --ignore \"src/__mocks__/*.js\"",
+    "clean": "rimraf lib && git clean -fdq -e src/",
+    "test": "jest",
+    "prepublish": "npm run build && cp -r ./lib/* . && rm -rf ./lib",
+    "postpublish": "npm run clean",
+    "postpack": "npm run postpublish"
+  },
+  "jest": {
+    "preset": "amex-jest-preset",
+    "coverageThreshold": {
+      "global": {
+        "branches": 4,
+        "functions": 39.13,
+        "lines": 25.45,
+        "statements": 25.45
+      }
+    },
+    "collectCoverageFrom": [
+      "<rootDir>/src/**/*.{js,jsx}"
+    ]
+  },
+  "keywords": [
+    "Strava",
+    "API",
+    "Fetch"
+  ],
+  "author": "Jonathan Golden",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/cli": "^7.7.7",
+    "@babel/core": "^7.7.7",
+    "amex-jest-preset": "^5.0.0",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-amex": "^3.3.0",
+    "eslint": "^6.8.0",
+    "eslint-config-amex": "^11.1.0",
+    "jest": "^24.9.0",
+    "jest-fetch-mock": "^3.0.1",
+    "rimraf": "^3.0.0"
+  },
+  "dependencies": {
+    "query-string": "^6.9.0"
+  }
+}
