@@ -1,13 +1,5 @@
 <div id="header" align="center">
   <img src="https://raw.githubusercontent.com/jongolden/jongolden/main/gh-banner.png" alt="banner that says Jonathan Golden - software engineer, maker of things, and apostle of water management">
-  <div id="badges" style="margin-top:10px">
-    <a href="https://github.com/jongolden">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github Badge"/>
-    </a>
-    <a href="https://www.npmjs.com/~jongolden">
-        <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm Badge"/>
-    </a>
-    </div>
 </div>
 <br></br>
 
