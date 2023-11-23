@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunk_jongolden_personal_profile=self.webpackChunk_jongolden_personal_profile||[]).push([[147],{4268:function(e,l,n){n.r(l);var t=n(2784),r=n(1050),a=n(3883);l.default=e=>{let{data:l}=e;return t.createElement(r.Z,{pathPrefix:l.site.pathPrefix},t.createElement(a.Z,null))}}}]);
-//# sourceMappingURL=component---src-pages-table-jsx-9ab1b26676e2b2c37987.js.map
