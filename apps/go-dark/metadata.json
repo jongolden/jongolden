@@ -1,0 +1,12 @@
+{
+  "uuid": "go-dark@jonathan-golden.me",
+  "name": "Go Dark",
+  "description": "A Gnome Shell extension to manage microphones, webcams, and location services",
+  "shell-version": [
+    "3.36",
+    "3.38"
+  ],
+  "url": "https://gitlab.com/jgolden17/go-dark-gnome-extension",
+  "original-author": "jonathan@jonathan-golden.me",
+  "version": 0.0
+}
