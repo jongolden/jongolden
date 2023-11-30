@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunk_jongolden17_personal_profile=self.webpackChunk_jongolden17_personal_profile||[]).push([[147],{1627:function(e,n,r){r.r(n);var t=r(7294),a=r(2416),l=r(5090);n.default=function(e){var n=e.data;return t.createElement(a.Z,{pathPrefix:n.site.pathPrefix},t.createElement(l.Z,null))}}}]);
-//# sourceMappingURL=component---src-pages-table-jsx-b85b09866ad8c6ce745c.js.map
