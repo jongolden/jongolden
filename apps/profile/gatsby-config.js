@@ -6,7 +6,7 @@ module.exports = {
     jobTitle: '',
     author: '@jongolden',
     siteUrl: 'https://jonathan-golden.me/',
-    googleSiteVerification: 'YM65urxVqPi5q3nXVGbzeu8g8zKcGtxb6_qBq_20eng',
+    googleSiteVerification: 'W1pww_T49nZU5JJavdW4zmBBJgIk1OCeAsjnnjmp3DI',
   },
   plugins: [
     'gatsby-plugin-sass',
